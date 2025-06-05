@@ -27,7 +27,7 @@ FULL CODE COMING SOON
 | RTC                | DS3231      | I2C       | Timekeeping      |
 | Battery management | TBD         | TBD       |                  |
 
-## Architecture
+## Firmware overview
 
 ![Os architecture1](https://raw.githubusercontent.com/angelogerminario/potato-watch/refs/heads/main/images/os1.jpeg)
 ![Os architecture2](https://raw.githubusercontent.com/angelogerminario/potato-watch/refs/heads/main/images/os2.jpeg)
