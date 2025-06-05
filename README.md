@@ -52,6 +52,9 @@ struct Data {
 
 ## Roadmap
 
+- [x] Apps
+- [x] Sleep modes
+- [x] DMA
 - [ ] Oled Screen
 - [ ] Bluetooth LE Notifications
 - [ ] OTA updates
