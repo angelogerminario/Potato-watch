@@ -1,7 +1,5 @@
 # Potato Watch
 
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![LVGL](https://img.shields.io/badge/LVGL-8.2.0-blue) ![License](https://img.shields.io/badge/License-GPL3.0-green)
-
 **My take on a smartwatch, built because i don't like the apple watch**
 
 FULL CODE COMING SOON
@@ -14,6 +12,7 @@ FULL CODE COMING SOON
 - **Hardware Acceleration** - DMA display rendering
 - **Professional UI** - LVGL integration with smooth animations
 - **Error Recovery** - Robust exception handling with diagnostic display
+
 ## Hardware
 
 ![Real photos](https://raw.githubusercontent.com/angelogerminario/potato-watch/refs/heads/main/images/photos.png)
@@ -33,6 +32,7 @@ FULL CODE COMING SOON
 ![Os architecture2](https://raw.githubusercontent.com/angelogerminario/potato-watch/refs/heads/main/images/os2.jpeg)
 
 ## Roadmap
+
 ![Oled pic](https://raw.githubusercontent.com/angelogerminario/potato-watch/refs/heads/main/images/oled.jpeg)
 A new version is being developed, with much improved electronics and a new much bigger (and brighter)OLED display
 
@@ -44,7 +44,6 @@ A new version is being developed, with much improved electronics and a new much 
 - [ ] OTA updates
 - [ ] File system (SPIFFS/LittleFS)
 - [ ] Health monitoring sensors
-
 
 ## License
 
