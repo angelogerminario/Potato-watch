@@ -27,30 +27,14 @@ FULL CODE COMING SOON
 | RTC                | DS3231      | I2C       | Timekeeping      |
 | Battery management | TBD         | TBD       |                  |
 
-## Firmware overview
+## Firmware overview (beta)
 
 ![Os architecture1](https://raw.githubusercontent.com/angelogerminario/potato-watch/refs/heads/main/images/os1.jpeg)
 ![Os architecture2](https://raw.githubusercontent.com/angelogerminario/potato-watch/refs/heads/main/images/os2.jpeg)
-## Code Structure Examples
-
-```cpp
-// Dynamic app management
-void runNewApp(std::string name) {
-    delete runningApp;
-    runningApp = new HomeScreen();
-    runningApp->initUI();
-}
-
-// Global system state
-struct Data {
-    std::string runAppString;
-    int sleep;                // NO_SLEEP, LIGHT_SLEEP, DEEP_SLEEP
-    RTC_DS3231 rtc;
-    BMA400 bma;
-};
-```
 
 ## Roadmap
+![Oled pic](https://raw.githubusercontent.com/angelogerminario/potato-watch/refs/heads/main/images/oled.jpeg)
+A new version is being developed, with much improved electronics and a new much bigger (and brighter)OLED display
 
 - [x] Apps
 - [x] Sleep modes
@@ -61,6 +45,7 @@ struct Data {
 - [ ] File system (SPIFFS/LittleFS)
 - [ ] Health monitoring sensors
 
+
 ## License
 
-GPL 3.0 - See [LICENSE](https://claude.ai/chat/LICENSE) for details.
+GPL 3.0 - See [LICENSE](https://github.com/angelogerminario/Potato-watch/blob/main/LICENSE) for details.
