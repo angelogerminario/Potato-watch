@@ -1,8 +1,6 @@
-# Potato Watch
+> **this project is a work in progress, more updates will be posted here as time goes on, 3d models and code will be posted on project completion**
 
 **My take on a smartwatch, built because i don't like the apple watch**
-
-FULL CODE COMING SOON
 
 ![Render](https://raw.githubusercontent.com/angelogerminario/potato-watch/refs/heads/main/images/render.jpg)
 ## Features
@@ -12,10 +10,14 @@ FULL CODE COMING SOON
 - **Hardware Acceleration** - DMA display rendering
 - **Professional UI** - LVGL integration with smooth animations
 - **Error Recovery** - Robust exception handling with diagnostic display
+- **Wifi/Bluetooth connectivity** - Supporting Wifi 4, Bluetooth 5 and most derivatives
 
 ## Hardware
 
 ![Real photos](https://raw.githubusercontent.com/angelogerminario/potato-watch/refs/heads/main/images/photos.jpg)
+current version is v6, these are some of the previous iterations
+
+## Current specs:
 
 | Component          | Model       | Interface | Purpose          |
 | ------------------ | ----------- | --------- | ---------------- |
@@ -33,8 +35,8 @@ FULL CODE COMING SOON
 
 ## Roadmap
 
-![Oled pic](https://raw.githubusercontent.com/angelogerminario/potato-watch/refs/heads/main/images/oled.jpeg)
-A new version is being developed, with much improved electronics and a new much bigger (and brighter)OLED display
+![Oled pic](https://raw.githubusercontent.com/angelogerminario/potato-watch/refs/heads/main/images/oled.jpg)
+A new version is being developed, with much improved electronics and a new much bigger edge to edge (and brighter) OLED display
 
 - [x] Apps
 - [x] Sleep modes
