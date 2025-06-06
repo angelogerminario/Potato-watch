@@ -38,14 +38,14 @@ current version is v6, these are some of the previous iterations
 ![Oled pic](https://raw.githubusercontent.com/angelogerminario/potato-watch/refs/heads/main/images/oled.jpg)
 A new version is being developed, with much improved electronics and a new much bigger edge to edge (and brighter) OLED display
 
-- [x] Apps
-- [x] Sleep modes
-- [x] DMA
-- [ ] Oled Screen
-- [ ] Bluetooth LE Notifications
-- [ ] OTA updates
-- [ ] File system (SPIFFS/LittleFS)
-- [ ] Health monitoring sensors
+🟩 Apps
+🟩 Sleep modes
+🟩 DMA
+🟨 Oled Screen
+🟨 Bluetooth LE Notifications
+◻️ OTA updates
+◻️ File system (SPIFFS/LittleFS)
+◻️ Health monitoring sensors
 
 ## License
 
