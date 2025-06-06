@@ -15,7 +15,7 @@ FULL CODE COMING SOON
 
 ## Hardware
 
-![Real photos](https://raw.githubusercontent.com/angelogerminario/potato-watch/refs/heads/main/images/photos.png)
+![Real photos](https://raw.githubusercontent.com/angelogerminario/potato-watch/refs/heads/main/images/photos.jpg)
 
 | Component          | Model       | Interface | Purpose          |
 | ------------------ | ----------- | --------- | ---------------- |
