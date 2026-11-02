@@ -1,4 +1,4 @@
-> **this project is a work in progress, more updates will be posted here as time goes on, 3d models and code will be posted on project completion**
+> **this project is no longer maintained, for up to date info check out my latest smartwatch, [OpenWatch](https://github.com/angelogerminario/OpenWatch)**
 
 **My take on a smartwatch, built because i don't like the apple watch**
 
